@@ -11,4 +11,4 @@ build собран в режиме production, devtool: 'hidden-source-map'
 
 ![image](https://user-images.githubusercontent.com/102058870/224122241-7388d09a-f7f9-4e26-a89f-6e838535e458.png)
 
-![image](https://user-images.githubusercontent.com/102058870/224121429-20f1f340-3da2-4d21-a79d-7467fb79034b.png)
+![image](https://user-images.githubusercontent.com/102058870/224123111-5ee76f36-0cf9-4621-95cf-b9699bf3f1ac.png)
